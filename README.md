@@ -13,7 +13,7 @@ When the company receives a loan application, 'loan approval decision' has to be
 
 ## Conclusions
 
-5 Major predictors (strong indicators) of deciding whether a loan applicant tend to default or not :
+### 5 Major predictors (strong indicators) of deciding whether a loan applicant tend to default or not :
 
 DTI , Grades , Verification Status , Annual income , Pub_rec_bankruptcies
 
